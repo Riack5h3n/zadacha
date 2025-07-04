@@ -11,7 +11,7 @@ orange - 1
 
 ОГРАНИЧЕНИЯ
 
-не использовать функцию str_word_count
+не использовать функцию str_word_count <br>
 не использовать функцию preg_split
 не использовать функцию array_count_values
 не использовать функцию explode
